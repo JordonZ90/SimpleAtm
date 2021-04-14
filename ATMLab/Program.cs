@@ -70,7 +70,7 @@ namespace ATMLab
                         Console.WriteLine("How much would you like to withdraw? ");
                         double withdrawnAmount = Convert.ToDouble(Console.ReadLine());
                         atm.Withdraw(withdrawnAmount);
-                        Console.WriteLine($"You withdrew {withdrawnAmount}");
+                        Console.WriteLine($"You withdrew {Math.Round(withdrawnAmount, 2)}");
                         atm.CheckBalance();
                     }
                     if (response == "4")
