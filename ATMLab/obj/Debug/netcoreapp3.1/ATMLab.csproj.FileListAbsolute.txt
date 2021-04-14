@@ -1,0 +1,24 @@
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.exe
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.deps.json
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.runtimeconfig.json
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.runtimeconfig.dev.json
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.dll
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.pdb
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.csprojAssemblyReference.cache
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.AssemblyInfoInputs.cache
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.AssemblyInfo.cs
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.dll
+C:\Users\zigar\Desktop\XtraHelp\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.pdb
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.exe
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.deps.json
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.dll
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.pdb
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.dll
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.pdb
+C:\Users\User-Ryzen\Desktop\New folder\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.genruntimeconfig.cache
